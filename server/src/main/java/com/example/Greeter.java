@@ -21,6 +21,6 @@ public class Greeter {
     System.out.println("Hello");
 
     
-    return String.format("Hello Avinash, %s!", someone)
+    return String.format("Hello Avinash, %s!", someone);
   }
 }
